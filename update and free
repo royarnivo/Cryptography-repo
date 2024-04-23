@@ -1,0 +1,3 @@
+cat /etc/os-release
+sudo apt-get update
+free -m
