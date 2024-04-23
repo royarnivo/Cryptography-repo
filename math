@@ -1,0 +1,6 @@
+import math
+def ret(x):
+    return math.sqrt(x**3+497*x+1768)
+ret(4726)
+
+divmod(ret(4726),9739)
