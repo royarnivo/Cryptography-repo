@@ -1,0 +1,4 @@
+fn main() {
+    // Printing greeting message
+    println!("Hello, world!");
+}
